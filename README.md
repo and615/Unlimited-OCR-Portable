@@ -108,3 +108,14 @@ GTX 1060 (6GB) 建议处理单张图片，大 PDF 可能需要更多显存。
 MIT
 
 基于百度 [Unlimited-OCR](https://github.com/PaddlePaddle/Unlimited-OCR) 项目整合。
+
+## 联系我们
+🛠️ 如果您是零基础用户、企业客户，或者不想折腾复杂的 PyTorch、CUDA 显卡驱动配置，我们提供开箱即用、双击即运行的 GPU 加速绿色整合包（约11GB），并提供以下支持：
+
+⚙️ 完整的 Windows 10 一键免安装绿色运行环境
+
+⚡ 针对 Nvidia 10系老旧显卡的 CUDA/cuDNN 极速推理优化
+
+💬 专属的技术支持与定制功能开发
+
+欢迎联系咨询： [andy615.white@gmail.com]
