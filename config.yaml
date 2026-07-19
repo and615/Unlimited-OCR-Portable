@@ -1,0 +1,18 @@
+model:
+  name: "baidu/Unlimited-OCR"
+  local_path: "./models/Unlimited-OCR"
+
+inference:
+  device: "auto"  # auto/cpu/cuda
+  image_mode: "gundam"  # gundam(单图)/base(多页PDF)
+  max_length: 32768
+  no_repeat_ngram_size: 35
+  ngram_window: 128
+
+output:
+  dir: "./outputs"
+
+webui:
+  host: "127.0.0.1"
+  port: 7860
+  share: false
